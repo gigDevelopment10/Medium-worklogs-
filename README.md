@@ -1,4 +1,4 @@
-# Medium-worklogs
+# Medium finance blog list
 
 - [ ] Monte Carlo Simulations in Option Pricing: Evaluating Financial Derivatives
 - [ ] Evolutionary Algorithms in Trading Strategy Optimization
