@@ -1,6 +1,6 @@
 # Medium Project Ideas 
 
-- [ ]**BackGrad**: Implement a basic feedforward neural network and manually code backpropagation to learn how gradients flow through the network.
+- [ ] **BackGrad**: Implement a basic feedforward neural network and manually code backpropagation to learn how gradients flow through the network.
 - [ ] **Simple Backpropagation**: Implement a basic feedforward neural network and manually code backpropagation to learn how gradients flow through the network.
 - [ ] **Autodiff Engine from Scratch**: Build an automatic differentiation (autodiff) engine like Micrograd that tracks computation graphs and calculates gradients for optimization.
 - [ ] **Manual SGD Optimizer**: Implement Stochastic Gradient Descent (SGD) from scratch without relying on deep learning libraries to understand how weights are updated during training.
